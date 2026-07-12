@@ -13,9 +13,8 @@ I build reliable large-scale systems — and now, AI agents that operate them.
 
 ### Selected projects
 
-- [trade_expert](https://github.com/arthaszyb/trade_expert) — LLM-powered investment signal generator
 - [estatement-parse](https://github.com/arthaszyb/estatement-parse) — bank e-statement PDF parser with automatic transaction classification
-- [stock-decision-assistant](https://github.com/arthaszyb/stock-decision-assistant) — TypeScript portal for stock decisions
+- **BankStatementAnalyzer** (private, in development) — iOS app for parsing and analyzing bank statements on-device, built with Swift
 
 ### Find me
 
