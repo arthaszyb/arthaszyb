@@ -13,9 +13,10 @@ I build reliable large-scale systems — and now, AI agents that operate them.
 
 ### Selected projects
 
+- [bright-talent](https://github.com/arthaszyb/bright-talent) — reference design for an enterprise AI-agent platform: declarative agent instances, versioned skills behind CI gates, strict-replay evaluation
+- [claude-enterprise-usage](https://github.com/arthaszyb/claude-enterprise-usage) — VS Code extension showing Claude Code quota and month-to-date usage
+- [BusBoard](https://github.com/arthaszyb/get_nearest_bus_updates) — live Singapore bus arrivals as an installable web app and iOS Shortcut (Cloudflare Workers)
 - [trade_expert](https://github.com/arthaszyb/trade_expert) — LLM-powered investment signal generator
-- [estatement-parse](https://github.com/arthaszyb/estatement-parse) — bank e-statement PDF parser with automatic transaction classification
-- [stock-decision-assistant](https://github.com/arthaszyb/stock-decision-assistant) — TypeScript portal for stock decisions
 
 ### Find me
 
