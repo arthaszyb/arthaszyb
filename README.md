@@ -2,9 +2,9 @@
 
 I build reliable large-scale systems — and now, AI agents that operate them.
 
-- Leading a **Digital Employee** platform built on Claude Code: autonomous AI agents that run daily SRE operations (incident response, diagnostics, routine ops)
+- Lead Marketplace SRE's workstream in Shopee's **Digital Employee** program (Claude Code-based AI agents for daily SRE work: incident response, diagnostics, routine ops) and own its skills and scaffold domains
 - 12+ years in SRE & cloud engineering at **Tencent** and **Shopee** — payment platforms, 1,000+ PB log systems, Kubernetes migrations at 60k-core scale
-- Turning LLMs into production impact: 60% faster incident triage with AI agents
+- Turning LLMs into production impact: 60% shorter mean-time-to-know for critical credit-card gateway incidents with AI agents
 - Based in Singapore · English / 中文
 
 ### Toolbox
